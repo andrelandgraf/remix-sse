@@ -1,0 +1,40 @@
+{
+  "messages": [
+    {
+      "id": "94f2ac84-ad66-489d-812e-f332d260788f",
+      "content": "Sup?",
+      "name": "Tony Stark",
+      "sentAt": "2022-10-19T03:43:25.055Z"
+    },
+    {
+      "id": "6a42bb26-420e-4aa7-a649-782541e0023c",
+      "content": "Hello Tony!",
+      "name": "Dr. Banner",
+      "sentAt": "2022-10-19T03:43:30.551Z"
+    },
+    {
+      "id": "ebadddaa-be24-4072-958d-7563e3e35533",
+      "content": "Stop spamming...",
+      "name": "Dr. Strange",
+      "sentAt": "2022-10-19T03:43:36.148Z"
+    },
+    {
+      "id": "e2551b01-1131-4a49-b8f2-d015b64840bd",
+      "content": "lol",
+      "name": "Dr. Banner",
+      "sentAt": "2022-10-19T03:43:40.180Z"
+    },
+    {
+      "id": "2639c365-5a73-4f38-a097-26070bc278e6",
+      "content": "...",
+      "name": "Tony Stark",
+      "sentAt": "2022-10-19T03:43:45.329Z"
+    },
+    {
+      "id": "820835e0-dc1f-4f7a-ac03-605197d12d36",
+      "content": "I am serious!",
+      "name": "Dr. Strange",
+      "sentAt": "2022-10-19T03:43:51.377Z"
+    }
+  ]
+}
